@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "433307635501",
+    "firebase_url": "https://enigma-83259.firebaseio.com",
+    "project_id": "enigma-83259",
+    "storage_bucket": "enigma-83259.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433307635501:android:b5f2f1c93dd9689cf28da4",
+        "android_client_info": {
+          "package_name": "malingi.bright.chatui3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433307635501-kdnenveejcokv4ph7ihlfss3b8bjknp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA26SKqCwDHQK7iAWQfSTB4ZjfCk5nKDpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433307635501-kdnenveejcokv4ph7ihlfss3b8bjknp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
